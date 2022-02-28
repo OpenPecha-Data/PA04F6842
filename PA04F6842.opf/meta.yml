@@ -1,0 +1,110 @@
+id: PA04F6842
+initial_creation_type: input
+source_metadata:
+  title: Buddhist Philosophy Series
+  language: es
+  description: 'The following texts are available as part of our Buddhist Philosophy
+    series:'
+  volume:
+    4ed6e050e75d4efd83fbcbd047f385ec:
+      title: Synopsis of the Treasury of Abhidharma (Abhidharmakośa)
+      parent: Abhidharma
+    f7e18e2a6f1a4426b1b1110c3774e12b:
+      title: Brief Analysis of the Five Aggregates
+      parent: Abhidharma
+    8e904150ab124843953b06d7bc92982a:
+      title: A Brief Explanation of the Ten Virtues and Eighteen Elements
+      parent: Abhidharma
+    d0362a6f066d4da79c3c8d0ea2d1507f:
+      title: Putting the Instruction on the Purification of Mental Activity into Practice
+      parent: Analytical Meditation
+    c6d3432ad05043bc90c71565d8fb243e:
+      title: The Wheel of Analytical Meditation That Thoroughly Purifies Mental Activity
+      parent: Analytical Meditation
+    7c94c21df76b45a6a8be6ce2e1e49626:
+      title: A Song for Travelling from Sikkim to Tibet
+      parent: Buddha Nature
+    8a76a1cc3e4241e493d6027f9ebb46ee:
+      title: On the Yogācāra Treatises and Buddha Nature
+      parent: Buddha Nature
+    660a2297118f400da221d28a981cb375:
+      title: A Brief Presentation of the Nine Vehicles
+      parent: Categories of Teaching
+    7a6f47fb351740f7a9186826d841c7bc:
+      title: A Brief Overview of the Three Turnings and the Mantra Piṭaka of the Vidyādharas
+      parent: Categories of Teaching
+    2e21bd40f9d74a779b32edc8ebd7599c:
+      title: Commentary on Nāgārjuna's Verses on the Essence of Dependent Origination
+      parent: Dependent Origination
+    38c5bb4783e947bcb8c663e285b839be:
+      title: Commentary on the Noble Essence of the Dharmadhātu
+      parent: Dependent Origination
+    318443b346d94328a68b6a8ad281d611:
+      title: Verses on the Heart of Dependent Origination
+      parent: Dependent Origination
+    fe658dfe845c42c9bd2d4d1a2814551d:
+      title: On Knowable Objects
+      parent: Logic and Epistemology
+    8c23b9a38f1b434594b7ee7b3603f513:
+      title: The Sword of Wisdom for Thoroughly Ascertaining Reality
+      parent: Logic and Epistemology
+    de6dafc41a644a80b403921c9641a332:
+      title: Conveying the Essence of the Middle Way of Consequence
+      parent: Middle Way
+    b03eebde40c04b3296df4b63943fd4a0:
+      title: 'The Words of Candra: The Definitive Secret of the Great Middle Way of
+        Consequence Beyond Extremes, the Fundamental Intent of All the Tathāgatas'
+      parent: Middle Way
+    539996593ff642fba44fb9ff31e0862f:
+      title: 'The Seed of Reasoning: Notes on the Five Great Logical Arguments of
+        the Middle Way'
+      parent: Middle Way
+    9ec5a7ea775b491ea037eb2588caf009:
+      title: 'Gateway to Learning: Four Great Logical Arguments of the Middle Way'
+      parent: Middle Way
+    ddf6f95ab3c44e5aa4efcf6d42e4c956:
+      title: Notes from Miscellaneous Writings
+      parent: Pedagogy
+    87fb7a8bbfbe4a518c0d24fa00a48c2e:
+      title: Preliminary Points to be Explained When Teaching the Buddha's Word or
+        the Treatises
+      parent: Pedagogy
+    972ac4d422154c44a717f68833a0f6ce:
+      title: 'The Vajra Mirror: Cutting through Doubts Concerning Self-Awareness'
+      parent: Self-Awareness
+    ae97778bdcc74776b18dac60ae43a0a1:
+      title: Ascertaining the Two Kinds of Selflessness
+      parent: Selflessness
+    8b91f6d30412413f9bfe5d2c890990ba:
+      title: 'Gateway to Learning: Individual Selflessness'
+      parent: Selflessness
+    4e6a4d7cbf64405e9f6ba17790171153:
+      title: A Brief Guide to the Stages and Paths of the Bodhisattvas
+      parent: Stages and Paths
+    32495c1942b74df1b63bda0221c6e925:
+      title: 'Elucidating the Hidden Meaning: A Commentary on the Meaning of the Four
+        Mudrās'
+      parent: Tantra
+    8f1a8c05963c41d99ba4840dc995e0a9:
+      title: Seeds of the Four Philosophical Schools
+      parent: Tenets
+    82f1c76611f44dd38579cfcb1757eb85:
+      title: 'The Concentrated Seed: How to Distinguish the Tenets of Non-Buddhist
+        and Buddhist Schools'
+      parent: Tenets
+    74008869ea2648039059aee8f5940109:
+      title: The Black Snake Discourse
+      parent: Tenets
+    9c0f65c3dd1e4c929573e05990bbfe45:
+      title: Elucidating the Essence of the Instructions for Entering the Three Gateways
+        to Liberation
+      parent: Three Gateways to Liberation
+    2fe5b1d4bdd74110ae5b5097e302c017:
+      title: 'The Excellent Path of the Great Vehicle: How to Meditate on the Three
+        Gateways to Liberation According to the Mahāyāna'
+      parent: Three Gateways to Liberation
+    6435bd0cd95f4d3789310c809dc21ba6:
+      title: An Instruction on the View of the Mahāyāna – Clarifying the Two Truths
+      parent: Two Truths
+created_at: '2022-03-01T03:08:46.914026'
+last_modified_at: '2022-03-01T03:08:46.914028'
